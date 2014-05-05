@@ -91,7 +91,7 @@
  *
  * Uncomment if the CPU supports SSE2 (IA-32 specific).
  */
-//#define POLARSSL_HAVE_SSE2
+#define POLARSSL_HAVE_SSE2
 
 /**
  * \def POLARSSL_HAVE_TIME
